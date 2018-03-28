@@ -1,0 +1,2299 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/lev/dev/gatsbypractice-lut-contentful/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1521822105596,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/lev/dev/gatsbypractice-lut-contentful/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f4354cdb0b3cdfc4f4bc20c07aabcea2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "af0cadb515f42d02b2137a42bc498832",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "05b95b53152a45cfc96076e63372d477",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7fdc72caa4fbfbd5b55771e9da8cfaed",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7b29a8c5ccc8f652d257ad42b663b616",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c24df3f91b833874fb28bee3bc393889",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "13f7e1bf6adeed44fab9b77e43ebe5f7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-contentful": {
+      "resolve": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby-source-contentful",
+      "id": "Plugin gatsby-source-contentful",
+      "name": "gatsby-source-contentful",
+      "version": "1.3.38",
+      "pluginOptions": {
+        "plugins": [],
+        "spaceId": "xjj1o0lmvxga",
+        "accessToken": "c524e64aac755367dd0e7fd97d52d4023312b0f32b41c010f48e4cfbfeea3fa6"
+      },
+      "nodeAPIs": [
+        "setFieldsOnGraphQLNodeType",
+        "sourceNodes",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby-source-contentful",
+      "packageJson": {
+        "name": "gatsby-source-contentful",
+        "description": "Gatsby source plugin for building websites using the Contentful CMS as a data source",
+        "version": "1.3.38",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "gatsby-source-plugin"
+        ],
+        "author": {
+          "name": "Marcus Ericsson",
+          "email": "mericsson@gmail.com",
+          "url": "mericsson.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "axios",
+            "version": "^0.16.1"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "base64-img",
+            "version": "^1.0.3"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "contentful",
+            "version": "^4.3.0"
+          },
+          {
+            "name": "deep-map",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "json-stringify-safe",
+            "version": "^5.0.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "qs",
+            "version": "^6.4.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "00315540735194d25d67bae72c9f0497",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e93b9a7d2adfea3be8dde952560facc3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-styled-components": {
+      "resolve": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby-plugin-styled-components",
+      "id": "Plugin gatsby-plugin-styled-components",
+      "name": "gatsby-plugin-styled-components",
+      "version": "2.0.7",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "replaceRenderer"
+      ],
+      "pluginFilepath": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby-plugin-styled-components",
+      "packageJson": {
+        "name": "gatsby-plugin-styled-components",
+        "description": "Gatsby plugin to add support for styled components",
+        "version": "2.0.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "styled-components"
+        ],
+        "author": {
+          "name": "Guten Ye",
+          "email": "ywzhaifei@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "styled-components",
+            "version": ">= 2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a659577bfe11d847447a2e31ffb658a9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.21",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "img",
+        "path": "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.21",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3f917dc2c557731ef10fe2a324424f3e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.20",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.20",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.6.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8294e07b3b2d398e87e8d443e1eb2971",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.31",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.31",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.5.1"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.19.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "65c947265ad1ff075be82034e0353c56",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.33",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/lev/dev/gatsbypractice-lut-contentful/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.33",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "522ff0c72638354bb0a778d6f9eb43a1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/lev/dev/gatsbypractice-lut-contentful",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "853f0529605730c4427f225cf9178d90",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/lev/dev/gatsbypractice-lut-contentful",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.202"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^1.0.38"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.37"
+          },
+          {
+            "name": "gatsby-plugin-netlify-cms",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.31"
+          },
+          {
+            "name": "gatsby-plugin-styled-components",
+            "version": "^2.0.7"
+          },
+          {
+            "name": "gatsby-source-contentful",
+            "version": "^1.3.38"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.21"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.33"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.20"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "styled-components",
+            "version": "^3.1.6"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "gh-pages",
+            "version": "^1.1.0"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.10.2"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e3aa810db1eccd6c4fe4738513cacd4e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Default Starter",
+        "desc": "A new blog"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-03-23T16:21:42.211Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d7f6e28bc4d771be70b78a11d150e553",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "c1ydpdyHIqQM4uIYC4i4eUsbodyTextNode": {
+      "id": "c1ydpdyHIqQM4uIYC4i4eUsbodyTextNode",
+      "parent": "c1ydpdyHIqQM4uIYC4i4eUs",
+      "children": [
+        "c1ydpdyHIqQM4uIYC4i4eUsbodyTextNode >>> MarkdownRemark"
+      ],
+      "body": "# MINUTES OF THE PARISH COUNCIL MEETING HELD AT 7.30 P.M \n \nON TUESDAY 09th JANUARY 2018 AT THE VILLAGE HALL, STATION ROAD, CHARTHAM, NR CANTERBURY, KENT, CT4 7JA.\n\nPresent:\n\nCllr. C. Manning – Chairman\t\t\t\tCllr. D. Butcher\nCllr. G. Wells\t\t\t\t\t\tCllr. P. Coles\t\nCllr. A. Frost\t\t\t\t\t\tCllr. G. Hoare\nCllr. T. Clark\t\t\t\t\t            Cllr. S. Hatcher, Vice-\tChairman\t\nCllr. R. Doyle CCC\t\t\t\t\tMiss C. Sparkes (Assistant Clerk)\t\n\nOne member of the public.\t\t\t\t\t\t\t\t\t\t\t\n(1)     Chairman’s Opening Remarks and Apologises for Absence:\n\nThe Chairman welcomed everyone to the meeting and asked for apologies for absence. These were recorded as Paul Hornibrook – Clerk (Illness), Cllr. S. Dungay (Illness), Cllr. R. Mallett (Illness), Cllr. R. Thomas CCC (Planning Meeting), and KCC Cllr. J. Simmonds (Illness).\n\nThe Chairman introduced Miss Chenice Sparkes and Ms A. Sparkes who have been undertaking the Parish Council clerical duties in the absence of Mr P. Hornibrook who has been unwell.\n\n(2)     Confirmation of previous Minutes of the last meeting held 28th November 2017:\nCllr Frost proposed and Cllr Coles seconded, and all councillors voted in favour, that the Minutes of the parish council meeting held on 28th November 2017 (previously circulated) be accepted as a true record of the meeting and the Chairman duly signed them. \n\n(3)     Council: a) Declaration of any councillor’s interest in agenda items.\n      No interest in any Agenda item was noted by any Councillor.\n\nDeclaration of Disclosable Pecuniary Interests and Other Significant Interests and Voluntary Announcements of Other Interests, and a reminder to think of any changes to the DPI Register held at CCC, such as a change of job or home.\nCllr. Coles reported that his partner would be starting a new job as the Clerk for Wye Parish Council from 15th January 2018. Cllr. Coles noted the requirement to send an updated DPI form to Canterbury City Council.\n\n(4)     Matters Arising from the Minutes:\nMiss Sparkes reported that she would be attending a training course on Thursday 11th January 2018 on the new General Data Protection Regulations and would be reporting back at the next meeting.\n\n\t\t\t\t\t\n\n\n\n\n\n\t\t\t\nPage 078 2017/2018\n\n(5)     To Receive and Consider ‘CORRESPONDENCE’:\n\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\nCountryside Voice “Roots of the Nation” magazine was received and passed to Cllr. Wells.\n\nMiss Sparkes reported that the Canterbury City Council Policy and Resources Committee met on 13th December 2017 to consider a report on the first stage of consultation on the Community Governance Review. The Councillors resolved with a  vote of nine in favour and two abstaining that:\nWith a very low 450 total responses from the whole district, there was insufficient             desire from residents nor a mandate to proceed or pursue the creation of Town             Councils for the unparished areas of Whitstable, Herne Bay and Canterbury.\nFurther improved Area Member Panel (AMP) arrangements should be explored,              and possibly extend their powers. (The AMPS are advisory committees – not              decision making bodies, and this is not likely to change.)\nThe recommendations and options for individual parished areas go out to further             public consultation. Chartham Parish Council has no recommended changes.\n\nThe next step is for the Chairman of the working group (Cllr Ben Fitter-Harding) and the City Council’s Chief Executive to design the next stage of public consultation on the further options for rural / parished areas. The working group will then make any further recommendations. \n\n (6)    Financial Matters, including ‘Authorisation of Accounts’:\t\t\t\nSchedule of payments - A resolution that orders for payment as shown in attached schedules was agreed unanimously. The cheques were signed by Cllr. Manning and Cllr. Butcher.\n\nIncome: The following cheque payments have been banked/received since the last meeting:\n£1,000 Chartham Sports Club – repayment of loan\n£32.27 UK Power Network – Wayleave payment\n£150.00 Interment of ashes for Janet Kendal\n£42.32 UK Power Networks – Wayleave payment (TR1157 Chartham Hatch)\n\nDeveloper contributions - An email from Rebecca Booth at Canterbury City Council was circulated requesting details by Friday 12th January 2018 of any projects which could be facilitated should the Parish Council receive funds from developer contributions. Funds could be allocated to projects under Parks and Gardens, Amenity Open Space, Fixed Play Areas, Outdoor Sports Facilities, and Semi Natural projects, and up to a possible combined total of £102,867.68. This amount is only an estimate, based on approximate developer contributions over the next few years.\n\nCllr. Coles suggested that maintenance of Bakers Wood be put forward for funding and approaching the local Football Club to enquire whether their facilities need updating. The Chairman suggested putting forward the BMX track project and Cllr. Clark suggested new fencing around the Shalmsford Street Play Area. Miss Sparkes agreed to pass on the suggestions to Rebecca Booth.\n\nThe Chairman reported that she had received a phonecall from Samantha at Kent County Council regarding £4,000 which has been allocated to the parish to be spent on adult social care capital projects e.g. access ramps, disabled toilets, signage, etc. As the majority of suggestions are already in place, the Parish Council resolved to request adult gym equipment at St Augustine’s. The Chairman agreed to speak with Samantha and put forward the request. \n\n(7)    Ratify the Budget for 2018/2019 and to Resolve the Precept Requirement\n\nA spreadsheet of the estimated budget and precept requirement for 2018/2019 was distributed prior to the meeting. The budget for the next financial year was based on a 1.9% increase from 2017/2018, in line with District and County Council restrictions. \nPage 079 2017/2018\n\nFollowing a query raised by the Finance Committee regarding the level of Gratuity for the Clerk in the budget, the Chairman confirmed that she had sought legal advice on the matter and established that the full amount earmarked for gratuity is payable to the Clerk on his retirement or death. \n\nLast year (2017-2018) figures were:\nPrecept £122,082.89; Grant £3,917.11\nTotal funding/budget: £126,000\n \nWith a 1.9% increase this year and taking into account the reducing grant, figures for 2018-2019 will be:\nPrecept £126,905.50; Grant £1,488.50\nTotal funding £128,394 (Of which the precept is £126,905.50)\n\nAll Councillors unanimously voted to ratify the budget/precept requirement of £128,394.00 for the financial year 2018/2019.\n\n (8)    Employment of a Temporary Clerk\nThe Chairman proposed the Miss C. Sparkes be officially employed on a part time basis at 15 hours a week while Mr P. Hornibrook is on sick leave. The Chairman reported she would be consulting with Burgess Hodgson and other agencies to determine an hourly rate and Miss Sparkes would be put on the payroll. The Parish Council unanimously agreed to employ Miss Sparkes on a part time basis.\n\nMs A. Sparkes reported that Mr Brian Wood, now retired, but previously of Tax and Compliance Support Ltd, the original company who set up the sage account and finance recording system for the Parish Council in 2003 or so, has offered his service free of charge to assist the temporary Clerk in finance duties and finance recording. The Parish Council wished to thank Mr Wood for his kind offer.  \n\nThe Chairman proposed that Ms A. Sparkes be reimbursed for her time in assisting with the clerical duties of the Parish Council. The Parish Council unanimously agreed with the suggestion.\n\n(9)      Planning Applications and Tree Works: \nThe Clerk reported that there were ‘9’ new Planning Applications since the previous meeting:\n\nCA//17/02612/FUL – Proposal: Loft conversion with dormer window to rear elevation and roof lights to front elevation. Location: 52 Magnolia Drive, Chartham, CT4 7TG: P.C. Comments: No Objections.\n\nCA//17/02631/LB – Proposal: Application for listed building consent for replacement timber windows, insertion of window following relocation of entrance and addition of porch, installation of balcony and additional solar panels to south-east elevation, re-cladding of dormer, 7. no roof lights, enlargement of 3 no. roof lights and insertion of gate to rear wall. \nLocation: The Garth, Mystole Lane, Mystole, Chartham, CT4 7DB: P.C. Comments: No Objections.\n\nCA/17/02527/FUL – Proposal: Two-storey rear extension to showroom and workshop, re-cladding and addition of render to exterior, erection of fencing and associated alterations following demolition of dry valet and tyre store. Location: Central House, Ashford Road, Chartham, CT4 7HH: P.C. Comments: No Objections.\n\nCA/17/02633/FUL – Proposal: Proposed 53 no, two storey dwellings and 11 no 2.5-storet dwellings following demolition of existing buildings, external alterations to 12 no cottage in Mill Row, change of use of Stables and engine shed to 2 no dwellings together with access, vehicle bridge, flood mitigation works and hard and soft landscaping. Location: Chartham Paper Mill, Station Road, Chartham (a locally listed building): P.C. Comments: The Chairman reported that the Planning Committee had met to discuss the application in the interim period between meetings and had raised no objections. Kent Highways has requested an extension of time for the application as they have some concerns regarding parking for some of the proposed properties. The Parish Council had No Objections.\n\nPage 080 2017/2018\n\nCllr. Doyle reported that a number of residents had expressed concern over who will be responsible for the future maintenance of the development, including the river. These concerns have been passed on to Canterbury City Council and a subsequent meeting was held with a representative from the Environment Agency to discuss these concerns further.\n\nCA//17/02846/FUL – Proposal: Single storey rear extension. Location: Milcourt, Howfield Lane, CT4 7LZ: P.C. Comments: No Objections.\n\nCA//17/02785/LB – Proposal: Application for listed building consent for internal alterations including replacement kitchen and door. Location: Sayes Court, Hatch Lane, Chartham, CT4 7LP: P.C. Comments: No Objections.\n\nCA//17/02844/LUP – Proposal: Application for lawful development certificate for proposed use of shed as ancillary living accommodation together with external alterations to dwelling, alterations to access and creation of hardstanding. Location: 72 Highland Road, Chartham, CT4 7QQ: P.C. Comments: No Objections.\n\nCA//17/02876/FUL – Proposal: Proposed glasshouse in rear garden. Location: Sayes Court, Hatch Lane, CT4 7LP: P.C. Comments: No Objections.\n\nPlanning Decisions\nThe following ‘Granted’ Planning Applications were noted:\n\nCA/17/02573/FUL - Proposal: Single storey side extension: Location: 62 Beech Avenue, CT4 7TA\n\nCA//17/02010/FUL – Proposal: Single storey front extension: Location: 3 Hillside Place, Cockering Road, CT4 7LH\n\nCA//17/02167/VAR – Proposal: Variation of condition 02 (drawings) of planning permission CA//17/00599/VAR for the erection of three dwellings; to allow alterations to plot 3 including moving of rooflight from south to north elevation and addition of window to first floor rear elevation (appeal reference APP/J2210/W/16/3155379): Location: Land at Howfield Lane, CT4 7HG\n\nCA//17/02191/FUL – Proposal: External alterations including recladding of car showroom and workshop and an additional glazed vehicle entrance to the east elevation: Location: Audi East Kent centre, Unit 17, Stour Valley Business Park, Ashford Road, CT4 7HF\n\nCA/17/02037/FUL – Proposal: Change of use from public house to single dwelling following the demolition of existing store, porch together with external alterations: Location: The George Public House, Shalmsford Street, CT4 5AV \n\nCA/17/02399/VAR – Proposal: Variation of condition 04 (painting of caravans) of planning permission CA//05/00630/FUL & condition 02 (painting of caravans) of planning permission CA//10/00660/FUL for the use of land for the storage of seasonal workers caravans during the winter months; to allow all caravans to be painted matt green: Location: Mansfield Farms, Nickle Farm, Nickle Lane, CT4 7PF\n\nCA//17/02483/LUE – Proposal: Application for lawful development certificate for existing single-storey rear extension and replacement first-floor window with French doors and Juliet balcony: Location: 9 Old Garden Court, CT4 7GA \n\t\n\n\nPage 081 2017/2018\n\t\t\t\t\t\t\t\n(10)     Cemetery Matters:    \n\nThe Chairman reported that the next Cemetery meeting will be held on Monday 15th January 2018 at 6pm in the Village Hall.\n\nThe Chairman reported that the annual inspection of the tombstones has caused some controversy in the village. Tombstones deemed unsafe or in need of repair have been carefully laid down to prevent any future damage, but residents unaware of this inspection have reported this to the Police and Councillors as vandalism. Cllr. Hoare reported that the usual practise is to tape up the tombstones and contact the owners giving them a year to rectify before then laying the tombstones down. \n\nCllr. Hoare reported that the number of funerals was above average for 2017 – normally between 10-12 burials take place each year but in 2017 there were 15 burials and four internments of ashes. Cllr. Hoare also reported that he had received a request from Mr Richard Marsh, the gravedigger, requesting that funerals are not booked any later than 2.30pm in the winter months due to reduced daylight hours, as he will be filling in graves in the dark. The next funeral is scheduled for February.\n\nA matter of rates for an ex-resident being buried in the parish was raised. A long-standing resident of the parish had been living in a nursing home for two years but had lived in the parish for most of his life. Normally rates are doubled for anybody who has not lived in the parish for over a year but, as the resident had moved due to health reasons, it was suggested that the excess rates be removed in this instance. The Chairman deferred further discussions and a decision to the Cemetery meeting on 15th January 2018. \n\t\t\t\t\t\t\t\t\t\n (11)     Countryside Issues:\n\nCllr. Coles reported that the pathway between the two fishing lakes opposite the Wyevale Garden Centre on Ashford Road has been blocked off since December 2017. The Chairman reported that the Parish Council investigated the blocking up of a footpath in the area last year but there was no action that could be taken. It was agreed that Cllr. Coles monitor the situation.\n\nCllr. Butcher reported that the rainfall count is 70mm.\n\n(12)      Amenities: \n\nCllr. Hatcher reported that the BT phonebox in Chartham Hatch has been smashed. The Chairman agreed to look into it and report the damage to BT. \n\nThe Chairman reported that a bin has been flattened by the bus shelter on the A28 Ashford Road, at the junction with Hatch Lane, and a metal bin with a black lid has been placed by the side of the Village Hall by persons unknown. Enquiries to discover the owner of the bin to get it removed have been unsuccessful.\n\nThe Chairman confirmed that the large 700 litre litter bin that went missing from the cemetery grounds was broken by the SERCO team who took it away. SERCO have subsequently ordered a replacement.\n\t\t\t\t\t\t\t\t\t\t\nIt was reported that the Post Office will move from its existing location in Shalmsford Street on 23rd February 2018 and reopen in the shop at St. Augustine’s on 24th February 2018. \n\n(13)    Adjournment of the meeting for parishioners’ questions and comments. \n\nNo parishioners’ in attendance.\n\n\n\nPage 082 2017/2018\n\n(14)   City and/or County Councillors’ Reports:\n\nCanterbury City Councillor, Cllr. Doyle confirmed that she will be stepping down as Lord Mayor in May 2018 but until then will continue to deal with ward matters and take an interest in planning matters as before.\n\t\t\t\t\t\t\t\n\n(15)   No Man's Orchard Management Committee:\n\nCllr. Clark reported that a meeting has been scheduled for 23rd January 2018 in the Village Hall. \n \t\t\t\t\t\n(16)    Sports Pavilions – (Village & St. Augustine’s):\nThe loan payment of £1000 now received was noted. \nThe Chairman agreed to contact The Sports Club to remind them that that they owe £1,000 for the hire of the sports club pitches for the 2016/2017 year.\n\t\t\n(17)   Play Areas (Village, St. Augustine’s & Chartham Hatch):\n\nThe regular Play Area Inspection Schedules for January 2018 for the three play areas were distributed to three councillors to undertake.\n\t\t\t\t\t\t\t\t\t  \n(18)   Village Hall:\n\nThe Chairman reported that in the recent extreme weather conditions, the roof appeared to have a slight leak at the front of the building. The leak is most likely due to the extreme conditions and the situation will be monitored.\n\nThe Chairman reported that the defibrillator light is currently not working. After some investigation, the circuit board was identified as being faulty and a replacement was ordered. This has now been delivered and the electrician has been informed.\n\nCllr. Clark reported that a number of notices in the Village Hall noticeboard outside the Post Office are out of date. Cllr. Butcher confirmed he has a key for the noticeboard and volunteered to remove the notices.\n\nLarge hall hire charges have been increased from £15 to £20 per hour. The Chairman agreed to contact the website provider to get the website updated to reflect this change.\n\t\t\t\t\t\t\t\t\t\n(19)    Highway Matters:\n\nCllr. Hoare reported that The Crescent will need to be closed in the near future to allow Kent Highways to resolve the sewer drain collapse. Currently the drain is being filled in temporarily on daily basis but a more permanent solution is required. A meeting was held recently on site to discuss the situation and Kent Highways will be applying for the necessary closure permits.\n\nCllr. Clark reported that a number of residents have approached him interested in volunteering to undertake speed checks in the village. The Chairman reported that the equipment would need to be recalibrated before undertaking any checks and Cllr. Butcher confirmed that training of all volunteers would be required. Cllr, Butcher volunteered to assist with speed checks should a new volunteer group be resurrected.  There is an online registration and training requirement for any new volunteers in order that they be covered under the Kent Police insurance. \n\n\n\n\t\t\t\t\t\t\t\t\t\tPage 083 2017/2018\n\n\t\t\t\t\t\n(20) Reports from KCC Community Warden & Police Community Support Officer (PCSO): \n\nThe following report was given from PCSO Gavin Dodwell for the period 01/12/2017 to 31/12/2017:\n\t\t\t\t\t\t\t\nCRIME RELATED INCIDENTS:\nCriminal Damage\nBurglary (various sheds)\n\nPOLICE RELATED INCIDENTS \nNuisance Vehicle\nPSCO Nathan Mullins has now left to join the Police. PSCO Amy Burningham has now joined PCSO Dodwell in the rural community.\nA serious assault was reported on 02nd January 2018 at 4.30am when a man walking alone along Updown Way towards Beech Avenue was subjected to an unprovoked attack in which the victim suffered a black eye, missing teeth and a swollen/bruised cheek. \n\n(21)     The next meeting of the Parish Council was confirmed as Tuesday 13th February 2018 at 7.30 pm at the Village Hall, Station Road, Chartham, and Nr Canterbury, Kent CT4 7JA.\n\nAgendas for the next meeting will be issued nearer the meeting, as they will include any new Planning Applications that are due for review.\n\n(20)     Closure:\n\nThe Parish Council wished to record thanks to the Chairman, Miss C. Sparkes and Ms A. Sparkes for their efforts while Mr P, Hornibrook is on sick leave.\n\nThere being no further business the meeting closed at 8.45pm.\n",
+      "internal": {
+        "type": "contentfulBlogPostBodyTextNode",
+        "mediaType": "text/markdown",
+        "content": "# MINUTES OF THE PARISH COUNCIL MEETING HELD AT 7.30 P.M \n \nON TUESDAY 09th JANUARY 2018 AT THE VILLAGE HALL, STATION ROAD, CHARTHAM, NR CANTERBURY, KENT, CT4 7JA.\n\nPresent:\n\nCllr. C. Manning – Chairman\t\t\t\tCllr. D. Butcher\nCllr. G. Wells\t\t\t\t\t\tCllr. P. Coles\t\nCllr. A. Frost\t\t\t\t\t\tCllr. G. Hoare\nCllr. T. Clark\t\t\t\t\t            Cllr. S. Hatcher, Vice-\tChairman\t\nCllr. R. Doyle CCC\t\t\t\t\tMiss C. Sparkes (Assistant Clerk)\t\n\nOne member of the public.\t\t\t\t\t\t\t\t\t\t\t\n(1)     Chairman’s Opening Remarks and Apologises for Absence:\n\nThe Chairman welcomed everyone to the meeting and asked for apologies for absence. These were recorded as Paul Hornibrook – Clerk (Illness), Cllr. S. Dungay (Illness), Cllr. R. Mallett (Illness), Cllr. R. Thomas CCC (Planning Meeting), and KCC Cllr. J. Simmonds (Illness).\n\nThe Chairman introduced Miss Chenice Sparkes and Ms A. Sparkes who have been undertaking the Parish Council clerical duties in the absence of Mr P. Hornibrook who has been unwell.\n\n(2)     Confirmation of previous Minutes of the last meeting held 28th November 2017:\nCllr Frost proposed and Cllr Coles seconded, and all councillors voted in favour, that the Minutes of the parish council meeting held on 28th November 2017 (previously circulated) be accepted as a true record of the meeting and the Chairman duly signed them. \n\n(3)     Council: a) Declaration of any councillor’s interest in agenda items.\n      No interest in any Agenda item was noted by any Councillor.\n\nDeclaration of Disclosable Pecuniary Interests and Other Significant Interests and Voluntary Announcements of Other Interests, and a reminder to think of any changes to the DPI Register held at CCC, such as a change of job or home.\nCllr. Coles reported that his partner would be starting a new job as the Clerk for Wye Parish Council from 15th January 2018. Cllr. Coles noted the requirement to send an updated DPI form to Canterbury City Council.\n\n(4)     Matters Arising from the Minutes:\nMiss Sparkes reported that she would be attending a training course on Thursday 11th January 2018 on the new General Data Protection Regulations and would be reporting back at the next meeting.\n\n\t\t\t\t\t\n\n\n\n\n\n\t\t\t\nPage 078 2017/2018\n\n(5)     To Receive and Consider ‘CORRESPONDENCE’:\n\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\nCountryside Voice “Roots of the Nation” magazine was received and passed to Cllr. Wells.\n\nMiss Sparkes reported that the Canterbury City Council Policy and Resources Committee met on 13th December 2017 to consider a report on the first stage of consultation on the Community Governance Review. The Councillors resolved with a  vote of nine in favour and two abstaining that:\nWith a very low 450 total responses from the whole district, there was insufficient             desire from residents nor a mandate to proceed or pursue the creation of Town             Councils for the unparished areas of Whitstable, Herne Bay and Canterbury.\nFurther improved Area Member Panel (AMP) arrangements should be explored,              and possibly extend their powers. (The AMPS are advisory committees – not              decision making bodies, and this is not likely to change.)\nThe recommendations and options for individual parished areas go out to further             public consultation. Chartham Parish Council has no recommended changes.\n\nThe next step is for the Chairman of the working group (Cllr Ben Fitter-Harding) and the City Council’s Chief Executive to design the next stage of public consultation on the further options for rural / parished areas. The working group will then make any further recommendations. \n\n (6)    Financial Matters, including ‘Authorisation of Accounts’:\t\t\t\nSchedule of payments - A resolution that orders for payment as shown in attached schedules was agreed unanimously. The cheques were signed by Cllr. Manning and Cllr. Butcher.\n\nIncome: The following cheque payments have been banked/received since the last meeting:\n£1,000 Chartham Sports Club – repayment of loan\n£32.27 UK Power Network – Wayleave payment\n£150.00 Interment of ashes for Janet Kendal\n£42.32 UK Power Networks – Wayleave payment (TR1157 Chartham Hatch)\n\nDeveloper contributions - An email from Rebecca Booth at Canterbury City Council was circulated requesting details by Friday 12th January 2018 of any projects which could be facilitated should the Parish Council receive funds from developer contributions. Funds could be allocated to projects under Parks and Gardens, Amenity Open Space, Fixed Play Areas, Outdoor Sports Facilities, and Semi Natural projects, and up to a possible combined total of £102,867.68. This amount is only an estimate, based on approximate developer contributions over the next few years.\n\nCllr. Coles suggested that maintenance of Bakers Wood be put forward for funding and approaching the local Football Club to enquire whether their facilities need updating. The Chairman suggested putting forward the BMX track project and Cllr. Clark suggested new fencing around the Shalmsford Street Play Area. Miss Sparkes agreed to pass on the suggestions to Rebecca Booth.\n\nThe Chairman reported that she had received a phonecall from Samantha at Kent County Council regarding £4,000 which has been allocated to the parish to be spent on adult social care capital projects e.g. access ramps, disabled toilets, signage, etc. As the majority of suggestions are already in place, the Parish Council resolved to request adult gym equipment at St Augustine’s. The Chairman agreed to speak with Samantha and put forward the request. \n\n(7)    Ratify the Budget for 2018/2019 and to Resolve the Precept Requirement\n\nA spreadsheet of the estimated budget and precept requirement for 2018/2019 was distributed prior to the meeting. The budget for the next financial year was based on a 1.9% increase from 2017/2018, in line with District and County Council restrictions. \nPage 079 2017/2018\n\nFollowing a query raised by the Finance Committee regarding the level of Gratuity for the Clerk in the budget, the Chairman confirmed that she had sought legal advice on the matter and established that the full amount earmarked for gratuity is payable to the Clerk on his retirement or death. \n\nLast year (2017-2018) figures were:\nPrecept £122,082.89; Grant £3,917.11\nTotal funding/budget: £126,000\n \nWith a 1.9% increase this year and taking into account the reducing grant, figures for 2018-2019 will be:\nPrecept £126,905.50; Grant £1,488.50\nTotal funding £128,394 (Of which the precept is £126,905.50)\n\nAll Councillors unanimously voted to ratify the budget/precept requirement of £128,394.00 for the financial year 2018/2019.\n\n (8)    Employment of a Temporary Clerk\nThe Chairman proposed the Miss C. Sparkes be officially employed on a part time basis at 15 hours a week while Mr P. Hornibrook is on sick leave. The Chairman reported she would be consulting with Burgess Hodgson and other agencies to determine an hourly rate and Miss Sparkes would be put on the payroll. The Parish Council unanimously agreed to employ Miss Sparkes on a part time basis.\n\nMs A. Sparkes reported that Mr Brian Wood, now retired, but previously of Tax and Compliance Support Ltd, the original company who set up the sage account and finance recording system for the Parish Council in 2003 or so, has offered his service free of charge to assist the temporary Clerk in finance duties and finance recording. The Parish Council wished to thank Mr Wood for his kind offer.  \n\nThe Chairman proposed that Ms A. Sparkes be reimbursed for her time in assisting with the clerical duties of the Parish Council. The Parish Council unanimously agreed with the suggestion.\n\n(9)      Planning Applications and Tree Works: \nThe Clerk reported that there were ‘9’ new Planning Applications since the previous meeting:\n\nCA//17/02612/FUL – Proposal: Loft conversion with dormer window to rear elevation and roof lights to front elevation. Location: 52 Magnolia Drive, Chartham, CT4 7TG: P.C. Comments: No Objections.\n\nCA//17/02631/LB – Proposal: Application for listed building consent for replacement timber windows, insertion of window following relocation of entrance and addition of porch, installation of balcony and additional solar panels to south-east elevation, re-cladding of dormer, 7. no roof lights, enlargement of 3 no. roof lights and insertion of gate to rear wall. \nLocation: The Garth, Mystole Lane, Mystole, Chartham, CT4 7DB: P.C. Comments: No Objections.\n\nCA/17/02527/FUL – Proposal: Two-storey rear extension to showroom and workshop, re-cladding and addition of render to exterior, erection of fencing and associated alterations following demolition of dry valet and tyre store. Location: Central House, Ashford Road, Chartham, CT4 7HH: P.C. Comments: No Objections.\n\nCA/17/02633/FUL – Proposal: Proposed 53 no, two storey dwellings and 11 no 2.5-storet dwellings following demolition of existing buildings, external alterations to 12 no cottage in Mill Row, change of use of Stables and engine shed to 2 no dwellings together with access, vehicle bridge, flood mitigation works and hard and soft landscaping. Location: Chartham Paper Mill, Station Road, Chartham (a locally listed building): P.C. Comments: The Chairman reported that the Planning Committee had met to discuss the application in the interim period between meetings and had raised no objections. Kent Highways has requested an extension of time for the application as they have some concerns regarding parking for some of the proposed properties. The Parish Council had No Objections.\n\nPage 080 2017/2018\n\nCllr. Doyle reported that a number of residents had expressed concern over who will be responsible for the future maintenance of the development, including the river. These concerns have been passed on to Canterbury City Council and a subsequent meeting was held with a representative from the Environment Agency to discuss these concerns further.\n\nCA//17/02846/FUL – Proposal: Single storey rear extension. Location: Milcourt, Howfield Lane, CT4 7LZ: P.C. Comments: No Objections.\n\nCA//17/02785/LB – Proposal: Application for listed building consent for internal alterations including replacement kitchen and door. Location: Sayes Court, Hatch Lane, Chartham, CT4 7LP: P.C. Comments: No Objections.\n\nCA//17/02844/LUP – Proposal: Application for lawful development certificate for proposed use of shed as ancillary living accommodation together with external alterations to dwelling, alterations to access and creation of hardstanding. Location: 72 Highland Road, Chartham, CT4 7QQ: P.C. Comments: No Objections.\n\nCA//17/02876/FUL – Proposal: Proposed glasshouse in rear garden. Location: Sayes Court, Hatch Lane, CT4 7LP: P.C. Comments: No Objections.\n\nPlanning Decisions\nThe following ‘Granted’ Planning Applications were noted:\n\nCA/17/02573/FUL - Proposal: Single storey side extension: Location: 62 Beech Avenue, CT4 7TA\n\nCA//17/02010/FUL – Proposal: Single storey front extension: Location: 3 Hillside Place, Cockering Road, CT4 7LH\n\nCA//17/02167/VAR – Proposal: Variation of condition 02 (drawings) of planning permission CA//17/00599/VAR for the erection of three dwellings; to allow alterations to plot 3 including moving of rooflight from south to north elevation and addition of window to first floor rear elevation (appeal reference APP/J2210/W/16/3155379): Location: Land at Howfield Lane, CT4 7HG\n\nCA//17/02191/FUL – Proposal: External alterations including recladding of car showroom and workshop and an additional glazed vehicle entrance to the east elevation: Location: Audi East Kent centre, Unit 17, Stour Valley Business Park, Ashford Road, CT4 7HF\n\nCA/17/02037/FUL – Proposal: Change of use from public house to single dwelling following the demolition of existing store, porch together with external alterations: Location: The George Public House, Shalmsford Street, CT4 5AV \n\nCA/17/02399/VAR – Proposal: Variation of condition 04 (painting of caravans) of planning permission CA//05/00630/FUL & condition 02 (painting of caravans) of planning permission CA//10/00660/FUL for the use of land for the storage of seasonal workers caravans during the winter months; to allow all caravans to be painted matt green: Location: Mansfield Farms, Nickle Farm, Nickle Lane, CT4 7PF\n\nCA//17/02483/LUE – Proposal: Application for lawful development certificate for existing single-storey rear extension and replacement first-floor window with French doors and Juliet balcony: Location: 9 Old Garden Court, CT4 7GA \n\t\n\n\nPage 081 2017/2018\n\t\t\t\t\t\t\t\n(10)     Cemetery Matters:    \n\nThe Chairman reported that the next Cemetery meeting will be held on Monday 15th January 2018 at 6pm in the Village Hall.\n\nThe Chairman reported that the annual inspection of the tombstones has caused some controversy in the village. Tombstones deemed unsafe or in need of repair have been carefully laid down to prevent any future damage, but residents unaware of this inspection have reported this to the Police and Councillors as vandalism. Cllr. Hoare reported that the usual practise is to tape up the tombstones and contact the owners giving them a year to rectify before then laying the tombstones down. \n\nCllr. Hoare reported that the number of funerals was above average for 2017 – normally between 10-12 burials take place each year but in 2017 there were 15 burials and four internments of ashes. Cllr. Hoare also reported that he had received a request from Mr Richard Marsh, the gravedigger, requesting that funerals are not booked any later than 2.30pm in the winter months due to reduced daylight hours, as he will be filling in graves in the dark. The next funeral is scheduled for February.\n\nA matter of rates for an ex-resident being buried in the parish was raised. A long-standing resident of the parish had been living in a nursing home for two years but had lived in the parish for most of his life. Normally rates are doubled for anybody who has not lived in the parish for over a year but, as the resident had moved due to health reasons, it was suggested that the excess rates be removed in this instance. The Chairman deferred further discussions and a decision to the Cemetery meeting on 15th January 2018. \n\t\t\t\t\t\t\t\t\t\n (11)     Countryside Issues:\n\nCllr. Coles reported that the pathway between the two fishing lakes opposite the Wyevale Garden Centre on Ashford Road has been blocked off since December 2017. The Chairman reported that the Parish Council investigated the blocking up of a footpath in the area last year but there was no action that could be taken. It was agreed that Cllr. Coles monitor the situation.\n\nCllr. Butcher reported that the rainfall count is 70mm.\n\n(12)      Amenities: \n\nCllr. Hatcher reported that the BT phonebox in Chartham Hatch has been smashed. The Chairman agreed to look into it and report the damage to BT. \n\nThe Chairman reported that a bin has been flattened by the bus shelter on the A28 Ashford Road, at the junction with Hatch Lane, and a metal bin with a black lid has been placed by the side of the Village Hall by persons unknown. Enquiries to discover the owner of the bin to get it removed have been unsuccessful.\n\nThe Chairman confirmed that the large 700 litre litter bin that went missing from the cemetery grounds was broken by the SERCO team who took it away. SERCO have subsequently ordered a replacement.\n\t\t\t\t\t\t\t\t\t\t\nIt was reported that the Post Office will move from its existing location in Shalmsford Street on 23rd February 2018 and reopen in the shop at St. Augustine’s on 24th February 2018. \n\n(13)    Adjournment of the meeting for parishioners’ questions and comments. \n\nNo parishioners’ in attendance.\n\n\n\nPage 082 2017/2018\n\n(14)   City and/or County Councillors’ Reports:\n\nCanterbury City Councillor, Cllr. Doyle confirmed that she will be stepping down as Lord Mayor in May 2018 but until then will continue to deal with ward matters and take an interest in planning matters as before.\n\t\t\t\t\t\t\t\n\n(15)   No Man's Orchard Management Committee:\n\nCllr. Clark reported that a meeting has been scheduled for 23rd January 2018 in the Village Hall. \n \t\t\t\t\t\n(16)    Sports Pavilions – (Village & St. Augustine’s):\nThe loan payment of £1000 now received was noted. \nThe Chairman agreed to contact The Sports Club to remind them that that they owe £1,000 for the hire of the sports club pitches for the 2016/2017 year.\n\t\t\n(17)   Play Areas (Village, St. Augustine’s & Chartham Hatch):\n\nThe regular Play Area Inspection Schedules for January 2018 for the three play areas were distributed to three councillors to undertake.\n\t\t\t\t\t\t\t\t\t  \n(18)   Village Hall:\n\nThe Chairman reported that in the recent extreme weather conditions, the roof appeared to have a slight leak at the front of the building. The leak is most likely due to the extreme conditions and the situation will be monitored.\n\nThe Chairman reported that the defibrillator light is currently not working. After some investigation, the circuit board was identified as being faulty and a replacement was ordered. This has now been delivered and the electrician has been informed.\n\nCllr. Clark reported that a number of notices in the Village Hall noticeboard outside the Post Office are out of date. Cllr. Butcher confirmed he has a key for the noticeboard and volunteered to remove the notices.\n\nLarge hall hire charges have been increased from £15 to £20 per hour. The Chairman agreed to contact the website provider to get the website updated to reflect this change.\n\t\t\t\t\t\t\t\t\t\n(19)    Highway Matters:\n\nCllr. Hoare reported that The Crescent will need to be closed in the near future to allow Kent Highways to resolve the sewer drain collapse. Currently the drain is being filled in temporarily on daily basis but a more permanent solution is required. A meeting was held recently on site to discuss the situation and Kent Highways will be applying for the necessary closure permits.\n\nCllr. Clark reported that a number of residents have approached him interested in volunteering to undertake speed checks in the village. The Chairman reported that the equipment would need to be recalibrated before undertaking any checks and Cllr. Butcher confirmed that training of all volunteers would be required. Cllr, Butcher volunteered to assist with speed checks should a new volunteer group be resurrected.  There is an online registration and training requirement for any new volunteers in order that they be covered under the Kent Police insurance. \n\n\n\n\t\t\t\t\t\t\t\t\t\tPage 083 2017/2018\n\n\t\t\t\t\t\n(20) Reports from KCC Community Warden & Police Community Support Officer (PCSO): \n\nThe following report was given from PCSO Gavin Dodwell for the period 01/12/2017 to 31/12/2017:\n\t\t\t\t\t\t\t\nCRIME RELATED INCIDENTS:\nCriminal Damage\nBurglary (various sheds)\n\nPOLICE RELATED INCIDENTS \nNuisance Vehicle\nPSCO Nathan Mullins has now left to join the Police. PSCO Amy Burningham has now joined PCSO Dodwell in the rural community.\nA serious assault was reported on 02nd January 2018 at 4.30am when a man walking alone along Updown Way towards Beech Avenue was subjected to an unprovoked attack in which the victim suffered a black eye, missing teeth and a swollen/bruised cheek. \n\n(21)     The next meeting of the Parish Council was confirmed as Tuesday 13th February 2018 at 7.30 pm at the Village Hall, Station Road, Chartham, and Nr Canterbury, Kent CT4 7JA.\n\nAgendas for the next meeting will be issued nearer the meeting, as they will include any new Planning Applications that are due for review.\n\n(20)     Closure:\n\nThe Parish Council wished to record thanks to the Chairman, Miss C. Sparkes and Ms A. Sparkes for their efforts while Mr P, Hornibrook is on sick leave.\n\nThere being no further business the meeting closed at 8.45pm.\n",
+        "contentDigest": "ea3578bab9ec3bddf1b6a7c796735e4d",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "Blog Post": {
+      "id": "Blog Post",
+      "parent": null,
+      "children": [],
+      "name": "Blog Post",
+      "displayField": "title",
+      "description": "",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "f9d3fe517ab1ddba3343c0c3a951b33d",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c1ydpdyHIqQM4uIYC4i4eUs": {
+      "title": "Our First Contentful Post",
+      "slug": "our-first-contentful-post",
+      "createdAt": "2018-03-23T13:42:29.749Z",
+      "body___NODE": "c1ydpdyHIqQM4uIYC4i4eUsbodyTextNode",
+      "id": "c1ydpdyHIqQM4uIYC4i4eUs",
+      "contentful_id": "1ydpdyHIqQM4uIYC4i4eUs",
+      "updatedAt": "2018-03-23T16:21:21.758Z",
+      "parent": "Blog Post",
+      "children": [
+        "c1ydpdyHIqQM4uIYC4i4eUsbodyTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulBlogPost",
+        "contentDigest": "909e4022458d08a1c5ac3201c539520d",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-GB"
+    },
+    "c1ydpdyHIqQM4uIYC4i4eUsbodyTextNode >>> MarkdownRemark": {
+      "id": "c1ydpdyHIqQM4uIYC4i4eUsbodyTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c1ydpdyHIqQM4uIYC4i4eUsbodyTextNode",
+      "internal": {
+        "content": "# MINUTES OF THE PARISH COUNCIL MEETING HELD AT 7.30 P.M \n \nON TUESDAY 09th JANUARY 2018 AT THE VILLAGE HALL, STATION ROAD, CHARTHAM, NR CANTERBURY, KENT, CT4 7JA.\n\nPresent:\n\nCllr. C. Manning – Chairman\t\t\t\tCllr. D. Butcher\nCllr. G. Wells\t\t\t\t\t\tCllr. P. Coles\t\nCllr. A. Frost\t\t\t\t\t\tCllr. G. Hoare\nCllr. T. Clark\t\t\t\t\t            Cllr. S. Hatcher, Vice-\tChairman\t\nCllr. R. Doyle CCC\t\t\t\t\tMiss C. Sparkes (Assistant Clerk)\t\n\nOne member of the public.\t\t\t\t\t\t\t\t\t\t\t\n(1)     Chairman’s Opening Remarks and Apologises for Absence:\n\nThe Chairman welcomed everyone to the meeting and asked for apologies for absence. These were recorded as Paul Hornibrook – Clerk (Illness), Cllr. S. Dungay (Illness), Cllr. R. Mallett (Illness), Cllr. R. Thomas CCC (Planning Meeting), and KCC Cllr. J. Simmonds (Illness).\n\nThe Chairman introduced Miss Chenice Sparkes and Ms A. Sparkes who have been undertaking the Parish Council clerical duties in the absence of Mr P. Hornibrook who has been unwell.\n\n(2)     Confirmation of previous Minutes of the last meeting held 28th November 2017:\nCllr Frost proposed and Cllr Coles seconded, and all councillors voted in favour, that the Minutes of the parish council meeting held on 28th November 2017 (previously circulated) be accepted as a true record of the meeting and the Chairman duly signed them. \n\n(3)     Council: a) Declaration of any councillor’s interest in agenda items.\n      No interest in any Agenda item was noted by any Councillor.\n\nDeclaration of Disclosable Pecuniary Interests and Other Significant Interests and Voluntary Announcements of Other Interests, and a reminder to think of any changes to the DPI Register held at CCC, such as a change of job or home.\nCllr. Coles reported that his partner would be starting a new job as the Clerk for Wye Parish Council from 15th January 2018. Cllr. Coles noted the requirement to send an updated DPI form to Canterbury City Council.\n\n(4)     Matters Arising from the Minutes:\nMiss Sparkes reported that she would be attending a training course on Thursday 11th January 2018 on the new General Data Protection Regulations and would be reporting back at the next meeting.\n\n\t\t\t\t\t\n\n\n\n\n\n\t\t\t\nPage 078 2017/2018\n\n(5)     To Receive and Consider ‘CORRESPONDENCE’:\n\t\t\t\t\t\t\t\t\t\t\t\t\t    \t\t\nCountryside Voice “Roots of the Nation” magazine was received and passed to Cllr. Wells.\n\nMiss Sparkes reported that the Canterbury City Council Policy and Resources Committee met on 13th December 2017 to consider a report on the first stage of consultation on the Community Governance Review. The Councillors resolved with a  vote of nine in favour and two abstaining that:\nWith a very low 450 total responses from the whole district, there was insufficient             desire from residents nor a mandate to proceed or pursue the creation of Town             Councils for the unparished areas of Whitstable, Herne Bay and Canterbury.\nFurther improved Area Member Panel (AMP) arrangements should be explored,              and possibly extend their powers. (The AMPS are advisory committees – not              decision making bodies, and this is not likely to change.)\nThe recommendations and options for individual parished areas go out to further             public consultation. Chartham Parish Council has no recommended changes.\n\nThe next step is for the Chairman of the working group (Cllr Ben Fitter-Harding) and the City Council’s Chief Executive to design the next stage of public consultation on the further options for rural / parished areas. The working group will then make any further recommendations. \n\n (6)    Financial Matters, including ‘Authorisation of Accounts’:\t\t\t\nSchedule of payments - A resolution that orders for payment as shown in attached schedules was agreed unanimously. The cheques were signed by Cllr. Manning and Cllr. Butcher.\n\nIncome: The following cheque payments have been banked/received since the last meeting:\n£1,000 Chartham Sports Club – repayment of loan\n£32.27 UK Power Network – Wayleave payment\n£150.00 Interment of ashes for Janet Kendal\n£42.32 UK Power Networks – Wayleave payment (TR1157 Chartham Hatch)\n\nDeveloper contributions - An email from Rebecca Booth at Canterbury City Council was circulated requesting details by Friday 12th January 2018 of any projects which could be facilitated should the Parish Council receive funds from developer contributions. Funds could be allocated to projects under Parks and Gardens, Amenity Open Space, Fixed Play Areas, Outdoor Sports Facilities, and Semi Natural projects, and up to a possible combined total of £102,867.68. This amount is only an estimate, based on approximate developer contributions over the next few years.\n\nCllr. Coles suggested that maintenance of Bakers Wood be put forward for funding and approaching the local Football Club to enquire whether their facilities need updating. The Chairman suggested putting forward the BMX track project and Cllr. Clark suggested new fencing around the Shalmsford Street Play Area. Miss Sparkes agreed to pass on the suggestions to Rebecca Booth.\n\nThe Chairman reported that she had received a phonecall from Samantha at Kent County Council regarding £4,000 which has been allocated to the parish to be spent on adult social care capital projects e.g. access ramps, disabled toilets, signage, etc. As the majority of suggestions are already in place, the Parish Council resolved to request adult gym equipment at St Augustine’s. The Chairman agreed to speak with Samantha and put forward the request. \n\n(7)    Ratify the Budget for 2018/2019 and to Resolve the Precept Requirement\n\nA spreadsheet of the estimated budget and precept requirement for 2018/2019 was distributed prior to the meeting. The budget for the next financial year was based on a 1.9% increase from 2017/2018, in line with District and County Council restrictions. \nPage 079 2017/2018\n\nFollowing a query raised by the Finance Committee regarding the level of Gratuity for the Clerk in the budget, the Chairman confirmed that she had sought legal advice on the matter and established that the full amount earmarked for gratuity is payable to the Clerk on his retirement or death. \n\nLast year (2017-2018) figures were:\nPrecept £122,082.89; Grant £3,917.11\nTotal funding/budget: £126,000\n \nWith a 1.9% increase this year and taking into account the reducing grant, figures for 2018-2019 will be:\nPrecept £126,905.50; Grant £1,488.50\nTotal funding £128,394 (Of which the precept is £126,905.50)\n\nAll Councillors unanimously voted to ratify the budget/precept requirement of £128,394.00 for the financial year 2018/2019.\n\n (8)    Employment of a Temporary Clerk\nThe Chairman proposed the Miss C. Sparkes be officially employed on a part time basis at 15 hours a week while Mr P. Hornibrook is on sick leave. The Chairman reported she would be consulting with Burgess Hodgson and other agencies to determine an hourly rate and Miss Sparkes would be put on the payroll. The Parish Council unanimously agreed to employ Miss Sparkes on a part time basis.\n\nMs A. Sparkes reported that Mr Brian Wood, now retired, but previously of Tax and Compliance Support Ltd, the original company who set up the sage account and finance recording system for the Parish Council in 2003 or so, has offered his service free of charge to assist the temporary Clerk in finance duties and finance recording. The Parish Council wished to thank Mr Wood for his kind offer.  \n\nThe Chairman proposed that Ms A. Sparkes be reimbursed for her time in assisting with the clerical duties of the Parish Council. The Parish Council unanimously agreed with the suggestion.\n\n(9)      Planning Applications and Tree Works: \nThe Clerk reported that there were ‘9’ new Planning Applications since the previous meeting:\n\nCA//17/02612/FUL – Proposal: Loft conversion with dormer window to rear elevation and roof lights to front elevation. Location: 52 Magnolia Drive, Chartham, CT4 7TG: P.C. Comments: No Objections.\n\nCA//17/02631/LB – Proposal: Application for listed building consent for replacement timber windows, insertion of window following relocation of entrance and addition of porch, installation of balcony and additional solar panels to south-east elevation, re-cladding of dormer, 7. no roof lights, enlargement of 3 no. roof lights and insertion of gate to rear wall. \nLocation: The Garth, Mystole Lane, Mystole, Chartham, CT4 7DB: P.C. Comments: No Objections.\n\nCA/17/02527/FUL – Proposal: Two-storey rear extension to showroom and workshop, re-cladding and addition of render to exterior, erection of fencing and associated alterations following demolition of dry valet and tyre store. Location: Central House, Ashford Road, Chartham, CT4 7HH: P.C. Comments: No Objections.\n\nCA/17/02633/FUL – Proposal: Proposed 53 no, two storey dwellings and 11 no 2.5-storet dwellings following demolition of existing buildings, external alterations to 12 no cottage in Mill Row, change of use of Stables and engine shed to 2 no dwellings together with access, vehicle bridge, flood mitigation works and hard and soft landscaping. Location: Chartham Paper Mill, Station Road, Chartham (a locally listed building): P.C. Comments: The Chairman reported that the Planning Committee had met to discuss the application in the interim period between meetings and had raised no objections. Kent Highways has requested an extension of time for the application as they have some concerns regarding parking for some of the proposed properties. The Parish Council had No Objections.\n\nPage 080 2017/2018\n\nCllr. Doyle reported that a number of residents had expressed concern over who will be responsible for the future maintenance of the development, including the river. These concerns have been passed on to Canterbury City Council and a subsequent meeting was held with a representative from the Environment Agency to discuss these concerns further.\n\nCA//17/02846/FUL – Proposal: Single storey rear extension. Location: Milcourt, Howfield Lane, CT4 7LZ: P.C. Comments: No Objections.\n\nCA//17/02785/LB – Proposal: Application for listed building consent for internal alterations including replacement kitchen and door. Location: Sayes Court, Hatch Lane, Chartham, CT4 7LP: P.C. Comments: No Objections.\n\nCA//17/02844/LUP – Proposal: Application for lawful development certificate for proposed use of shed as ancillary living accommodation together with external alterations to dwelling, alterations to access and creation of hardstanding. Location: 72 Highland Road, Chartham, CT4 7QQ: P.C. Comments: No Objections.\n\nCA//17/02876/FUL – Proposal: Proposed glasshouse in rear garden. Location: Sayes Court, Hatch Lane, CT4 7LP: P.C. Comments: No Objections.\n\nPlanning Decisions\nThe following ‘Granted’ Planning Applications were noted:\n\nCA/17/02573/FUL - Proposal: Single storey side extension: Location: 62 Beech Avenue, CT4 7TA\n\nCA//17/02010/FUL – Proposal: Single storey front extension: Location: 3 Hillside Place, Cockering Road, CT4 7LH\n\nCA//17/02167/VAR – Proposal: Variation of condition 02 (drawings) of planning permission CA//17/00599/VAR for the erection of three dwellings; to allow alterations to plot 3 including moving of rooflight from south to north elevation and addition of window to first floor rear elevation (appeal reference APP/J2210/W/16/3155379): Location: Land at Howfield Lane, CT4 7HG\n\nCA//17/02191/FUL – Proposal: External alterations including recladding of car showroom and workshop and an additional glazed vehicle entrance to the east elevation: Location: Audi East Kent centre, Unit 17, Stour Valley Business Park, Ashford Road, CT4 7HF\n\nCA/17/02037/FUL – Proposal: Change of use from public house to single dwelling following the demolition of existing store, porch together with external alterations: Location: The George Public House, Shalmsford Street, CT4 5AV \n\nCA/17/02399/VAR – Proposal: Variation of condition 04 (painting of caravans) of planning permission CA//05/00630/FUL & condition 02 (painting of caravans) of planning permission CA//10/00660/FUL for the use of land for the storage of seasonal workers caravans during the winter months; to allow all caravans to be painted matt green: Location: Mansfield Farms, Nickle Farm, Nickle Lane, CT4 7PF\n\nCA//17/02483/LUE – Proposal: Application for lawful development certificate for existing single-storey rear extension and replacement first-floor window with French doors and Juliet balcony: Location: 9 Old Garden Court, CT4 7GA \n\t\n\n\nPage 081 2017/2018\n\t\t\t\t\t\t\t\n(10)     Cemetery Matters:    \n\nThe Chairman reported that the next Cemetery meeting will be held on Monday 15th January 2018 at 6pm in the Village Hall.\n\nThe Chairman reported that the annual inspection of the tombstones has caused some controversy in the village. Tombstones deemed unsafe or in need of repair have been carefully laid down to prevent any future damage, but residents unaware of this inspection have reported this to the Police and Councillors as vandalism. Cllr. Hoare reported that the usual practise is to tape up the tombstones and contact the owners giving them a year to rectify before then laying the tombstones down. \n\nCllr. Hoare reported that the number of funerals was above average for 2017 – normally between 10-12 burials take place each year but in 2017 there were 15 burials and four internments of ashes. Cllr. Hoare also reported that he had received a request from Mr Richard Marsh, the gravedigger, requesting that funerals are not booked any later than 2.30pm in the winter months due to reduced daylight hours, as he will be filling in graves in the dark. The next funeral is scheduled for February.\n\nA matter of rates for an ex-resident being buried in the parish was raised. A long-standing resident of the parish had been living in a nursing home for two years but had lived in the parish for most of his life. Normally rates are doubled for anybody who has not lived in the parish for over a year but, as the resident had moved due to health reasons, it was suggested that the excess rates be removed in this instance. The Chairman deferred further discussions and a decision to the Cemetery meeting on 15th January 2018. \n\t\t\t\t\t\t\t\t\t\n (11)     Countryside Issues:\n\nCllr. Coles reported that the pathway between the two fishing lakes opposite the Wyevale Garden Centre on Ashford Road has been blocked off since December 2017. The Chairman reported that the Parish Council investigated the blocking up of a footpath in the area last year but there was no action that could be taken. It was agreed that Cllr. Coles monitor the situation.\n\nCllr. Butcher reported that the rainfall count is 70mm.\n\n(12)      Amenities: \n\nCllr. Hatcher reported that the BT phonebox in Chartham Hatch has been smashed. The Chairman agreed to look into it and report the damage to BT. \n\nThe Chairman reported that a bin has been flattened by the bus shelter on the A28 Ashford Road, at the junction with Hatch Lane, and a metal bin with a black lid has been placed by the side of the Village Hall by persons unknown. Enquiries to discover the owner of the bin to get it removed have been unsuccessful.\n\nThe Chairman confirmed that the large 700 litre litter bin that went missing from the cemetery grounds was broken by the SERCO team who took it away. SERCO have subsequently ordered a replacement.\n\t\t\t\t\t\t\t\t\t\t\nIt was reported that the Post Office will move from its existing location in Shalmsford Street on 23rd February 2018 and reopen in the shop at St. Augustine’s on 24th February 2018. \n\n(13)    Adjournment of the meeting for parishioners’ questions and comments. \n\nNo parishioners’ in attendance.\n\n\n\nPage 082 2017/2018\n\n(14)   City and/or County Councillors’ Reports:\n\nCanterbury City Councillor, Cllr. Doyle confirmed that she will be stepping down as Lord Mayor in May 2018 but until then will continue to deal with ward matters and take an interest in planning matters as before.\n\t\t\t\t\t\t\t\n\n(15)   No Man's Orchard Management Committee:\n\nCllr. Clark reported that a meeting has been scheduled for 23rd January 2018 in the Village Hall. \n \t\t\t\t\t\n(16)    Sports Pavilions – (Village & St. Augustine’s):\nThe loan payment of £1000 now received was noted. \nThe Chairman agreed to contact The Sports Club to remind them that that they owe £1,000 for the hire of the sports club pitches for the 2016/2017 year.\n\t\t\n(17)   Play Areas (Village, St. Augustine’s & Chartham Hatch):\n\nThe regular Play Area Inspection Schedules for January 2018 for the three play areas were distributed to three councillors to undertake.\n\t\t\t\t\t\t\t\t\t  \n(18)   Village Hall:\n\nThe Chairman reported that in the recent extreme weather conditions, the roof appeared to have a slight leak at the front of the building. The leak is most likely due to the extreme conditions and the situation will be monitored.\n\nThe Chairman reported that the defibrillator light is currently not working. After some investigation, the circuit board was identified as being faulty and a replacement was ordered. This has now been delivered and the electrician has been informed.\n\nCllr. Clark reported that a number of notices in the Village Hall noticeboard outside the Post Office are out of date. Cllr. Butcher confirmed he has a key for the noticeboard and volunteered to remove the notices.\n\nLarge hall hire charges have been increased from £15 to £20 per hour. The Chairman agreed to contact the website provider to get the website updated to reflect this change.\n\t\t\t\t\t\t\t\t\t\n(19)    Highway Matters:\n\nCllr. Hoare reported that The Crescent will need to be closed in the near future to allow Kent Highways to resolve the sewer drain collapse. Currently the drain is being filled in temporarily on daily basis but a more permanent solution is required. A meeting was held recently on site to discuss the situation and Kent Highways will be applying for the necessary closure permits.\n\nCllr. Clark reported that a number of residents have approached him interested in volunteering to undertake speed checks in the village. The Chairman reported that the equipment would need to be recalibrated before undertaking any checks and Cllr. Butcher confirmed that training of all volunteers would be required. Cllr, Butcher volunteered to assist with speed checks should a new volunteer group be resurrected.  There is an online registration and training requirement for any new volunteers in order that they be covered under the Kent Police insurance. \n\n\n\n\t\t\t\t\t\t\t\t\t\tPage 083 2017/2018\n\n\t\t\t\t\t\n(20) Reports from KCC Community Warden & Police Community Support Officer (PCSO): \n\nThe following report was given from PCSO Gavin Dodwell for the period 01/12/2017 to 31/12/2017:\n\t\t\t\t\t\t\t\nCRIME RELATED INCIDENTS:\nCriminal Damage\nBurglary (various sheds)\n\nPOLICE RELATED INCIDENTS \nNuisance Vehicle\nPSCO Nathan Mullins has now left to join the Police. PSCO Amy Burningham has now joined PCSO Dodwell in the rural community.\nA serious assault was reported on 02nd January 2018 at 4.30am when a man walking alone along Updown Way towards Beech Avenue was subjected to an unprovoked attack in which the victim suffered a black eye, missing teeth and a swollen/bruised cheek. \n\n(21)     The next meeting of the Parish Council was confirmed as Tuesday 13th February 2018 at 7.30 pm at the Village Hall, Station Road, Chartham, and Nr Canterbury, Kent CT4 7JA.\n\nAgendas for the next meeting will be issued nearer the meeting, as they will include any new Planning Applications that are due for review.\n\n(20)     Closure:\n\nThe Parish Council wished to record thanks to the Chairman, Miss C. Sparkes and Ms A. Sparkes for their efforts while Mr P, Hornibrook is on sick leave.\n\nThere being no further business the meeting closed at 8.45pm.\n",
+        "contentDigest": "467caf2bac3eb1f61bb1f52403ec737f",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c1ydpdyHIqQM4uIYC4i4eUsbodyTextNode",
+        "parent": "c1ydpdyHIqQM4uIYC4i4eUsbodyTextNode"
+      },
+      "excerpt": ""
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/ absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/ absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8752f8ddb5bd6e55153b3dcc210dd0a7",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/",
+      "relativePath": "",
+      "extension": "",
+      "size": 256,
+      "prettySize": "256 B",
+      "modifiedTime": "2018-03-18T20:36:36.498Z",
+      "accessTime": "2018-03-23T16:21:45.175Z",
+      "changeTime": "2018-03-23T15:02:47.157Z",
+      "birthTime": "2018-02-21T22:04:53.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful",
+      "base": "src",
+      "ext": "",
+      "name": "src",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 8,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509297,
+      "blocks": 0,
+      "atimeMs": 1521822105175.3545,
+      "mtimeMs": 1521405396497.912,
+      "ctimeMs": 1521817367157.035,
+      "birthtimeMs": 1519250693000,
+      "atime": "2018-03-23T16:21:45.175Z",
+      "mtime": "2018-03-18T20:36:36.498Z",
+      "ctime": "2018-03-23T15:02:47.157Z",
+      "birthtime": "2018-02-21T22:04:53.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/images absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/images absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "34306e240d0a5bacd99330474d231764",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "img",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-02-21T18:06:26.000Z",
+      "accessTime": "2018-03-23T16:21:45.259Z",
+      "changeTime": "2018-03-23T15:02:47.151Z",
+      "birthTime": "2018-02-21T18:06:26.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509303,
+      "blocks": 0,
+      "atimeMs": 1521822105258.7185,
+      "mtimeMs": 1519236386000,
+      "ctimeMs": 1521817367151.057,
+      "birthtimeMs": 1519236386000,
+      "atime": "2018-03-23T16:21:45.259Z",
+      "mtime": "2018-02-21T18:06:26.000Z",
+      "ctime": "2018-03-23T15:02:47.151Z",
+      "birthtime": "2018-02-21T18:06:26.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/components absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/components absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "dcfa3070e9708464131485aedcbbe353",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/components",
+      "relativePath": "components",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-02-21T22:06:20.000Z",
+      "accessTime": "2018-03-23T16:21:45.178Z",
+      "changeTime": "2018-03-23T15:02:47.153Z",
+      "birthTime": "2018-02-21T22:06:20.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src",
+      "base": "components",
+      "ext": "",
+      "name": "components",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509306,
+      "blocks": 0,
+      "atimeMs": 1521822105177.7175,
+      "mtimeMs": 1519250780000,
+      "ctimeMs": 1521817367153.0955,
+      "birthtimeMs": 1519250780000,
+      "atime": "2018-03-23T16:21:45.178Z",
+      "mtime": "2018-02-21T22:06:20.000Z",
+      "ctime": "2018-03-23T15:02:47.153Z",
+      "birthtime": "2018-02-21T22:06:20.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/layouts absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/layouts absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "80ce7db722cac98eec169c42d2af1f05",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/layouts",
+      "relativePath": "layouts",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-02-20T18:32:01.000Z",
+      "accessTime": "2018-03-23T16:21:45.178Z",
+      "changeTime": "2018-03-23T15:02:47.155Z",
+      "birthTime": "2018-02-20T18:32:01.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src",
+      "base": "layouts",
+      "ext": "",
+      "name": "layouts",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509311,
+      "blocks": 0,
+      "atimeMs": 1521822105177.87,
+      "mtimeMs": 1519151521000,
+      "ctimeMs": 1521817367154.5664,
+      "birthtimeMs": 1519151521000,
+      "atime": "2018-03-23T16:21:45.178Z",
+      "mtime": "2018-02-20T18:32:01.000Z",
+      "ctime": "2018-03-23T15:02:47.155Z",
+      "birthtime": "2018-02-20T18:32:01.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0404afd58023bf0bebd82b7be2aae805",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages",
+      "relativePath": "pages",
+      "extension": "",
+      "size": 192,
+      "prettySize": "192 B",
+      "modifiedTime": "2018-03-18T20:36:36.502Z",
+      "accessTime": "2018-03-23T16:21:45.178Z",
+      "changeTime": "2018-03-23T15:02:47.157Z",
+      "birthTime": "2018-02-21T22:05:21.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 6,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509314,
+      "blocks": 0,
+      "atimeMs": 1521822105177.793,
+      "mtimeMs": 1521405396501.568,
+      "ctimeMs": 1521817367156.8164,
+      "birthtimeMs": 1519250721000,
+      "atime": "2018-03-23T16:21:45.178Z",
+      "mtime": "2018-03-18T20:36:36.502Z",
+      "ctime": "2018-03-23T15:02:47.157Z",
+      "birthtime": "2018-02-21T22:05:21.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/posts absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/posts absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0e1c90c1e0fdf9a245f06f2702b103fe",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/posts",
+      "relativePath": "posts",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-02-23T18:51:12.000Z",
+      "accessTime": "2018-03-23T16:21:45.178Z",
+      "changeTime": "2018-03-23T15:02:47.149Z",
+      "birthTime": "2018-02-23T18:51:12.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src",
+      "base": "posts",
+      "ext": "",
+      "name": "posts",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509300,
+      "blocks": 0,
+      "atimeMs": 1521822105177.7698,
+      "mtimeMs": 1519411872000,
+      "ctimeMs": 1521817367149.3213,
+      "birthtimeMs": 1519411872000,
+      "atime": "2018-03-23T16:21:45.178Z",
+      "mtime": "2018-02-23T18:51:12.000Z",
+      "ctime": "2018-03-23T15:02:47.149Z",
+      "birthtime": "2018-02-23T18:51:12.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/components/Header absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/components/Header absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "bdfd77d24437e3ddea12a14e8816821d",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/components/Header",
+      "relativePath": "components/Header",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-02-20T18:32:01.000Z",
+      "accessTime": "2018-03-23T16:21:45.179Z",
+      "changeTime": "2018-03-23T15:02:47.153Z",
+      "birthTime": "2018-02-20T18:32:01.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src/components",
+      "base": "Header",
+      "ext": "",
+      "name": "Header",
+      "relativeDirectory": "components",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509309,
+      "blocks": 0,
+      "atimeMs": 1521822105179.1877,
+      "mtimeMs": 1519151521000,
+      "ctimeMs": 1521817367152.983,
+      "birthtimeMs": 1519151521000,
+      "atime": "2018-03-23T16:21:45.179Z",
+      "mtime": "2018-02-20T18:32:01.000Z",
+      "ctime": "2018-03-23T15:02:47.153Z",
+      "birthtime": "2018-02-20T18:32:01.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/components/Posts absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/components/Posts absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "fe793f645f1ca07efac2393533a1b5d1",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/components/Posts",
+      "relativePath": "components/Posts",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-02-21T22:06:34.000Z",
+      "accessTime": "2018-03-23T16:21:45.179Z",
+      "changeTime": "2018-03-23T15:02:47.152Z",
+      "birthTime": "2018-02-21T22:06:34.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src/components",
+      "base": "Posts",
+      "ext": "",
+      "name": "Posts",
+      "relativeDirectory": "components",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509307,
+      "blocks": 0,
+      "atimeMs": 1521822105179.1716,
+      "mtimeMs": 1519250794000,
+      "ctimeMs": 1521817367152.2004,
+      "birthtimeMs": 1519250794000,
+      "atime": "2018-03-23T16:21:45.179Z",
+      "mtime": "2018-02-21T22:06:34.000Z",
+      "ctime": "2018-03-23T15:02:47.152Z",
+      "birthtime": "2018-02-21T22:06:34.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/.DS_Store absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "68bd4330aaf5f45c6b749e2dfdb8f803",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/.DS_Store",
+      "relativePath": ".DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-02-20T20:34:36.000Z",
+      "accessTime": "2018-03-23T15:15:54.037Z",
+      "changeTime": "2018-03-23T15:02:47.150Z",
+      "birthTime": "2018-02-20T20:34:36.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509302,
+      "blocks": 16,
+      "atimeMs": 1521818154037.462,
+      "mtimeMs": 1519158876000,
+      "ctimeMs": 1521817367149.7937,
+      "birthtimeMs": 1519158876000,
+      "atime": "2018-03-23T15:15:54.037Z",
+      "mtime": "2018-02-20T20:34:36.000Z",
+      "ctime": "2018-03-23T15:02:47.150Z",
+      "birthtime": "2018-02-20T20:34:36.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/images/logo.svg absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/images/logo.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7665f742d9402c726ad0cd313e098ef8",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/images/logo.svg",
+      "relativePath": "images/logo.svg",
+      "extension": "svg",
+      "size": 14522,
+      "prettySize": "14.5 kB",
+      "modifiedTime": "2017-07-31T16:26:40.000Z",
+      "accessTime": "2018-03-23T15:15:59.728Z",
+      "changeTime": "2018-03-23T15:02:47.151Z",
+      "birthTime": "2017-07-31T16:26:40.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src/images",
+      "base": "logo.svg",
+      "ext": ".svg",
+      "name": "logo",
+      "relativeDirectory": "images",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509304,
+      "blocks": 32,
+      "atimeMs": 1521818159727.9028,
+      "mtimeMs": 1501518400000,
+      "ctimeMs": 1521817367150.5286,
+      "birthtimeMs": 1501518400000,
+      "atime": "2018-03-23T15:15:59.728Z",
+      "mtime": "2017-07-31T16:26:40.000Z",
+      "ctime": "2018-03-23T15:02:47.151Z",
+      "birthtime": "2017-07-31T16:26:40.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/layouts/index.js absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/layouts/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e1beede877bb60c050f59e574a0627b6",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/layouts/index.js",
+      "relativePath": "layouts/index.js",
+      "extension": "js",
+      "size": 1025,
+      "prettySize": "1.02 kB",
+      "modifiedTime": "2018-02-22T18:03:31.000Z",
+      "accessTime": "2018-03-23T15:15:59.728Z",
+      "changeTime": "2018-03-23T15:02:47.154Z",
+      "birthTime": "2018-02-22T18:03:31.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src/layouts",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "layouts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509312,
+      "blocks": 8,
+      "atimeMs": 1521818159727.9924,
+      "mtimeMs": 1519322611000,
+      "ctimeMs": 1521817367153.832,
+      "birthtimeMs": 1519322611000,
+      "atime": "2018-03-23T15:15:59.728Z",
+      "mtime": "2018-02-22T18:03:31.000Z",
+      "ctime": "2018-03-23T15:02:47.154Z",
+      "birthtime": "2018-02-22T18:03:31.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/layouts/index.css absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/layouts/index.css absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "eed8cf4192a217bf249ac4765c7dd68e",
+        "mediaType": "text/css",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/layouts/index.css",
+      "relativePath": "layouts/index.css",
+      "extension": "css",
+      "size": 11244,
+      "prettySize": "11.2 kB",
+      "modifiedTime": "2018-02-20T18:32:01.000Z",
+      "accessTime": "2018-03-23T15:15:59.728Z",
+      "changeTime": "2018-03-23T15:02:47.154Z",
+      "birthTime": "2018-02-20T18:32:01.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src/layouts",
+      "base": "index.css",
+      "ext": ".css",
+      "name": "index",
+      "relativeDirectory": "layouts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509313,
+      "blocks": 24,
+      "atimeMs": 1521818159727.9814,
+      "mtimeMs": 1519151521000,
+      "ctimeMs": 1521817367154.461,
+      "birthtimeMs": 1519151521000,
+      "atime": "2018-03-23T15:15:59.728Z",
+      "mtime": "2018-02-20T18:32:01.000Z",
+      "ctime": "2018-03-23T15:02:47.154Z",
+      "birthtime": "2018-02-20T18:32:01.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/.DS_Store absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "194577a7e20bdcc7afbb718f502c134c",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/.DS_Store",
+      "relativePath": "pages/.DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-02-21T22:05:21.000Z",
+      "accessTime": "2018-03-23T15:15:54.038Z",
+      "changeTime": "2018-03-23T15:02:47.155Z",
+      "birthTime": "2018-02-21T22:05:21.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509315,
+      "blocks": 16,
+      "atimeMs": 1521818154038.347,
+      "mtimeMs": 1519250721000,
+      "ctimeMs": 1521817367155.3242,
+      "birthtimeMs": 1519250721000,
+      "atime": "2018-03-23T15:15:54.038Z",
+      "mtime": "2018-02-21T22:05:21.000Z",
+      "ctime": "2018-03-23T15:02:47.155Z",
+      "birthtime": "2018-02-21T22:05:21.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/404.js absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/404.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8d50d9a7e3f04ddcc5ff8d43b6effe79",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/404.js",
+      "relativePath": "pages/404.js",
+      "extension": "js",
+      "size": 198,
+      "prettySize": "198 B",
+      "modifiedTime": "2018-02-20T18:32:01.000Z",
+      "accessTime": "2018-03-23T15:15:59.728Z",
+      "changeTime": "2018-03-23T15:02:47.156Z",
+      "birthTime": "2018-02-20T18:32:01.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509317,
+      "blocks": 8,
+      "atimeMs": 1521818159728.0806,
+      "mtimeMs": 1519151521000,
+      "ctimeMs": 1521817367156.2869,
+      "birthtimeMs": 1519151521000,
+      "atime": "2018-03-23T15:15:59.728Z",
+      "mtime": "2018-02-20T18:32:01.000Z",
+      "ctime": "2018-03-23T15:02:47.156Z",
+      "birthtime": "2018-02-20T18:32:01.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/about.js absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/about.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f1530bd34b473c195907803523d3df0e",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/about.js",
+      "relativePath": "pages/about.js",
+      "extension": "js",
+      "size": 925,
+      "prettySize": "925 B",
+      "modifiedTime": "2018-02-20T20:16:57.000Z",
+      "accessTime": "2018-03-23T15:15:59.728Z",
+      "changeTime": "2018-03-23T15:02:47.156Z",
+      "birthTime": "2018-02-20T20:16:57.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages",
+      "base": "about.js",
+      "ext": ".js",
+      "name": "about",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509316,
+      "blocks": 8,
+      "atimeMs": 1521818159728.094,
+      "mtimeMs": 1519157817000,
+      "ctimeMs": 1521817367155.7632,
+      "birthtimeMs": 1519157817000,
+      "atime": "2018-03-23T15:15:59.728Z",
+      "mtime": "2018-02-20T20:16:57.000Z",
+      "ctime": "2018-03-23T15:02:47.156Z",
+      "birthtime": "2018-02-20T20:16:57.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/index.js absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "81ae91b5ff78d30ec969147d62a5b734",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/index.js",
+      "relativePath": "pages/index.js",
+      "extension": "js",
+      "size": 738,
+      "prettySize": "738 B",
+      "modifiedTime": "2018-03-23T15:55:33.776Z",
+      "accessTime": "2018-03-23T15:55:33.776Z",
+      "changeTime": "2018-03-23T15:55:33.776Z",
+      "birthTime": "2018-02-23T18:54:42.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509318,
+      "blocks": 8,
+      "atimeMs": 1521820533775.6384,
+      "mtimeMs": 1521820533776.0144,
+      "ctimeMs": 1521820533776.0144,
+      "birthtimeMs": 1519412082000,
+      "atime": "2018-03-23T15:55:33.776Z",
+      "mtime": "2018-03-23T15:55:33.776Z",
+      "ctime": "2018-03-23T15:55:33.776Z",
+      "birthtime": "2018-02-23T18:54:42.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/posts/PostPage.js absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/posts/PostPage.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d4d00f4e995b091ed3c0178febfc3460",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/posts/PostPage.js",
+      "relativePath": "posts/PostPage.js",
+      "extension": "js",
+      "size": 705,
+      "prettySize": "705 B",
+      "modifiedTime": "2018-03-23T15:52:24.504Z",
+      "accessTime": "2018-03-23T15:52:24.504Z",
+      "changeTime": "2018-03-23T15:52:24.504Z",
+      "birthTime": "2018-02-23T18:54:54.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src/posts",
+      "base": "PostPage.js",
+      "ext": ".js",
+      "name": "PostPage",
+      "relativeDirectory": "posts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509301,
+      "blocks": 8,
+      "atimeMs": 1521820344503.7825,
+      "mtimeMs": 1521820344504.2075,
+      "ctimeMs": 1521820344504.2075,
+      "birthtimeMs": 1519412094000,
+      "atime": "2018-03-23T15:52:24.504Z",
+      "mtime": "2018-03-23T15:52:24.504Z",
+      "ctime": "2018-03-23T15:52:24.504Z",
+      "birthtime": "2018-02-23T18:54:54.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/components/Posts/PostListing.js absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/components/Posts/PostListing.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e85c2d3092c2f6616d6e0267b953178a",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/components/Posts/PostListing.js",
+      "relativePath": "components/Posts/PostListing.js",
+      "extension": "js",
+      "size": 304,
+      "prettySize": "304 B",
+      "modifiedTime": "2018-03-23T15:57:37.290Z",
+      "accessTime": "2018-03-23T15:57:37.290Z",
+      "changeTime": "2018-03-23T15:57:37.290Z",
+      "birthTime": "2018-02-22T17:28:51.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src/components/Posts",
+      "base": "PostListing.js",
+      "ext": ".js",
+      "name": "PostListing",
+      "relativeDirectory": "components/Posts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509308,
+      "blocks": 8,
+      "atimeMs": 1521820657289.6973,
+      "mtimeMs": 1521820657290.459,
+      "ctimeMs": 1521820657290.459,
+      "birthtimeMs": 1519320531000,
+      "atime": "2018-03-23T15:57:37.290Z",
+      "mtime": "2018-03-23T15:57:37.290Z",
+      "ctime": "2018-03-23T15:57:37.290Z",
+      "birthtime": "2018-02-22T17:28:51.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/components/Header/index.js absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/components/Header/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1ea34c1c941e425e3e4eb1027c9ad4b0",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/components/Header/index.js",
+      "relativePath": "components/Header/index.js",
+      "extension": "js",
+      "size": 2871,
+      "prettySize": "2.87 kB",
+      "modifiedTime": "2018-02-22T19:25:41.000Z",
+      "accessTime": "2018-03-23T15:15:59.728Z",
+      "changeTime": "2018-03-23T15:02:47.153Z",
+      "birthTime": "2018-02-22T19:25:41.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src/components/Header",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "components/Header",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509310,
+      "blocks": 8,
+      "atimeMs": 1521818159727.7327,
+      "mtimeMs": 1519327541000,
+      "ctimeMs": 1521817367152.8484,
+      "birthtimeMs": 1519327541000,
+      "atime": "2018-03-23T15:15:59.728Z",
+      "mtime": "2018-02-22T19:25:41.000Z",
+      "ctime": "2018-03-23T15:02:47.153Z",
+      "birthtime": "2018-02-22T19:25:41.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/images/bg.jpeg absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/images/bg.jpeg absPath of file",
+      "children": [
+        "/Users/lev/dev/gatsbypractice-lut-contentful/src/images/bg.jpeg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6b6971baeb8265aadc7f014edaa6ff31",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/images/bg.jpeg",
+      "relativePath": "images/bg.jpeg",
+      "extension": "jpeg",
+      "size": 19555308,
+      "prettySize": "19.6 MB",
+      "modifiedTime": "2018-02-21T18:06:26.000Z",
+      "accessTime": "2018-03-23T15:22:01.039Z",
+      "changeTime": "2018-03-23T15:02:47.151Z",
+      "birthTime": "2018-02-21T18:06:26.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/src/images",
+      "base": "bg.jpeg",
+      "ext": ".jpeg",
+      "name": "bg",
+      "relativeDirectory": "images",
+      "dev": 16777220,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509305,
+      "blocks": 38200,
+      "atimeMs": 1521818521039.0242,
+      "mtimeMs": 1519236386000,
+      "ctimeMs": 1521817367150.9604,
+      "birthtimeMs": 1519236386000,
+      "atime": "2018-03-23T15:22:01.039Z",
+      "mtime": "2018-02-21T18:06:26.000Z",
+      "ctime": "2018-03-23T15:02:47.151Z",
+      "birthtime": "2018-02-21T18:06:26.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/src/images/bg.jpeg absPath of file >> ImageSharp": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/src/images/bg.jpeg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/lev/dev/gatsbypractice-lut-contentful/src/images/bg.jpeg absPath of file",
+      "internal": {
+        "contentDigest": "6b6971baeb8265aadc7f014edaa6ff31",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "77901910c634f96fc5612427e02a4be2",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "img",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets",
+      "relativePath": "",
+      "extension": "",
+      "size": 160,
+      "prettySize": "160 B",
+      "modifiedTime": "2018-02-23T18:26:41.000Z",
+      "accessTime": "2018-03-23T16:21:45.388Z",
+      "changeTime": "2018-03-23T15:02:47.168Z",
+      "birthTime": "2018-02-23T18:26:41.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/static",
+      "base": "assets",
+      "ext": "",
+      "name": "assets",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509319,
+      "blocks": 0,
+      "atimeMs": 1521822105388.1619,
+      "mtimeMs": 1519410401000,
+      "ctimeMs": 1521817367167.7007,
+      "birthtimeMs": 1519410401000,
+      "atime": "2018-03-23T16:21:45.388Z",
+      "mtime": "2018-02-23T18:26:41.000Z",
+      "ctime": "2018-03-23T15:02:47.168Z",
+      "birthtime": "2018-02-23T18:26:41.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/screen.png absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/screen.png absPath of file",
+      "children": [
+        "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/screen.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7ba072c13810d43023b96fbfea238147",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "img",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/screen.png",
+      "relativePath": "screen.png",
+      "extension": "png",
+      "size": 220585,
+      "prettySize": "221 kB",
+      "modifiedTime": "2018-02-23T18:16:00.000Z",
+      "accessTime": "2018-03-23T15:22:01.205Z",
+      "changeTime": "2018-03-23T15:02:47.168Z",
+      "birthTime": "2018-02-23T18:16:00.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets",
+      "base": "screen.png",
+      "ext": ".png",
+      "name": "screen",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509322,
+      "blocks": 432,
+      "atimeMs": 1521818521204.5032,
+      "mtimeMs": 1519409760000,
+      "ctimeMs": 1521817367167.5981,
+      "birthtimeMs": 1519409760000,
+      "atime": "2018-03-23T15:22:01.205Z",
+      "mtime": "2018-02-23T18:16:00.000Z",
+      "ctime": "2018-03-23T15:02:47.168Z",
+      "birthtime": "2018-02-23T18:16:00.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/screen.png absPath of file >> ImageSharp": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/screen.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/screen.png absPath of file",
+      "internal": {
+        "contentDigest": "7ba072c13810d43023b96fbfea238147",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/shot.png absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/shot.png absPath of file",
+      "children": [
+        "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/shot.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7ba072c13810d43023b96fbfea238147",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "img",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/shot.png",
+      "relativePath": "shot.png",
+      "extension": "png",
+      "size": 220585,
+      "prettySize": "221 kB",
+      "modifiedTime": "2018-02-23T18:26:41.000Z",
+      "accessTime": "2018-03-23T15:22:01.205Z",
+      "changeTime": "2018-03-23T15:02:47.167Z",
+      "birthTime": "2018-02-23T18:26:41.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets",
+      "base": "shot.png",
+      "ext": ".png",
+      "name": "shot",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509320,
+      "blocks": 432,
+      "atimeMs": 1521818521204.5034,
+      "mtimeMs": 1519410401000,
+      "ctimeMs": 1521817367166.6355,
+      "birthtimeMs": 1519410401000,
+      "atime": "2018-03-23T15:22:01.205Z",
+      "mtime": "2018-02-23T18:26:41.000Z",
+      "ctime": "2018-03-23T15:02:47.167Z",
+      "birthtime": "2018-02-23T18:26:41.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/shot.png absPath of file >> ImageSharp": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/shot.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/shot.png absPath of file",
+      "internal": {
+        "contentDigest": "7ba072c13810d43023b96fbfea238147",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/screen shot 2018-02-21 at 12.01.17 pm.png absPath of file": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/screen shot 2018-02-21 at 12.01.17 pm.png absPath of file",
+      "children": [
+        "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/screen shot 2018-02-21 at 12.01.17 pm.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "23b3ca6d8f7cdd2e0a599620d3c8e004",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "img",
+      "absolutePath": "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/screen shot 2018-02-21 at 12.01.17 pm.png",
+      "relativePath": "screen shot 2018-02-21 at 12.01.17 pm.png",
+      "extension": "png",
+      "size": 1440734,
+      "prettySize": "1.44 MB",
+      "modifiedTime": "2018-02-23T17:24:37.000Z",
+      "accessTime": "2018-03-23T15:22:01.204Z",
+      "changeTime": "2018-03-23T15:02:47.167Z",
+      "birthTime": "2018-02-23T17:24:37.000Z",
+      "root": "/",
+      "dir": "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets",
+      "base": "screen shot 2018-02-21 at 12.01.17 pm.png",
+      "ext": ".png",
+      "name": "screen shot 2018-02-21 at 12.01.17 pm",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599509321,
+      "blocks": 2816,
+      "atimeMs": 1521818521204.4946,
+      "mtimeMs": 1519406677000,
+      "ctimeMs": 1521817367167.0747,
+      "birthtimeMs": 1519406677000,
+      "atime": "2018-03-23T15:22:01.204Z",
+      "mtime": "2018-02-23T17:24:37.000Z",
+      "ctime": "2018-03-23T15:02:47.167Z",
+      "birthtime": "2018-02-23T17:24:37.000Z"
+    },
+    "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/screen shot 2018-02-21 at 12.01.17 pm.png absPath of file >> ImageSharp": {
+      "id": "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/screen shot 2018-02-21 at 12.01.17 pm.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/lev/dev/gatsbypractice-lut-contentful/static/assets/screen shot 2018-02-21 at 12.01.17 pm.png absPath of file",
+      "internal": {
+        "contentDigest": "23b3ca6d8f7cdd2e0a599620d3c8e004",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /our-first-contentful-post": {
+      "layout": "index",
+      "jsonName": "our-first-contentful-post.json",
+      "internalComponentName": "ComponentOurFirstContentfulPost",
+      "path": "/our-first-contentful-post",
+      "component": "/Users/lev/dev/gatsbypractice-lut-contentful/src/posts/PostPage.js",
+      "componentChunkName": "component---src-posts-post-page-js",
+      "context": {
+        "slug": "our-first-contentful-post"
+      },
+      "updatedAt": 1521822105592,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/posts/PostPage.js",
+      "id": "SitePage /our-first-contentful-post",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5bc53e40d8eef5da33ee4725c36016de",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1521822105601,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b5d035ebf31b58587a89c96e5c39865f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "updatedAt": 1521822105601,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e6c8dab84f0611fa3ec162db8c09cc84",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "updatedAt": 1521822105602,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a760c41a9b55d5e1117da8fee7c2a34a",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1521822105604,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/lev/dev/gatsbypractice-lut-contentful/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3a8968474231120ce9c8026051c69001",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {
+      "gatsby-source-contentful": {
+        "xjj1o0lmvxga": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDkz87IjQ6bmpuwpbDpFAOwqnDgi3CvsOsRmVCw6cIDSAkw4bDtHvCrmDDhSPDp1PCtQssMxM0aWHDh2MYwoVWw4d6Y8OMwpgHNVFiwp8sclpXOVo"
+      }
+    },
+    "PLUGINS_HASH": "2197fe7471960ed4601ba22945dc37df"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "LAYOUT___index",
+        "/"
+      ],
+      "c1ydpdyHIqQM4uIYC4i4eUsbodyTextNode": [
+        "/",
+        "/our-first-contentful-post"
+      ],
+      "/Users/lev/dev/gatsbypractice-lut-contentful/src/images/bg.jpeg absPath of file >> ImageSharp": [
+        "LAYOUT___index"
+      ],
+      "/Users/lev/dev/gatsbypractice-lut-contentful/src/images/bg.jpeg absPath of file": [
+        null,
+        null
+      ],
+      "c1ydpdyHIqQM4uIYC4i4eUs": [
+        "/our-first-contentful-post",
+        "/"
+      ],
+      "c1ydpdyHIqQM4uIYC4i4eUsbodyTextNode >>> MarkdownRemark": [
+        "/",
+        "/our-first-contentful-post"
+      ]
+    },
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ],
+      "ContentfulBlogPost": [
+        "/"
+      ]
+    }
+  }
+}
